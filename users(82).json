@@ -1,0 +1,7 @@
+[{"id":"1","name":"Joyan Latty","dateOfBirth":"1387/12/25","universityLocation":"UK","field":"ID","workplace":"Rio","specialties":["Assistant Manager","Chief Design Engineer","Statistician"],"connectionId":["3","2"]}
+,{"id":"2","name":"Kerianne Kall","dateOfBirth":"1382/07/09","universityLocation":"UV","field":"PH","workplace":"Melborn","specialties":["Research Assistant","Nuclear Power Engineer","Automation Specialist","Staff Scientist"],"connectionId":["4"]}
+,{"id":"3","name":"Shina Brennans","dateOfBirth":"1383/01/30","universityLocation":"UK","field":"ID","workplace":"Texas","specialties":["Senior Editor","General Manager"],"connectionId":["4","1"]}
+,{"id":"4","name":"Dorey Ambrogioni","dateOfBirth":"1371/01/28","universityLocation":"UD","field":"CL","workplace":"Rauco","specialties":["Senior Sales Associate","Internal Auditor","Design Engineer"],"connectionId":["5" ,"2"]}
+,{"id":"5","name":"Eolande Van Arsdalen","dateOfBirth":"1373/09/18","universityLocation":"UQ","field":"BR","workplace":"Isfahan","specialties":["Structural Engineer"],"connectionId":["1","7"]}
+,{"id":"7","name":"Shina Brennans","dateOfBirth":"1383/01/30","universityLocation":"UK","field":"ID","workplace":"Texas","specialties":["Senior Editor","General Manager"],"connectionId":["8"]}
+,{"id":"8","name":"Shina Brennans","dateOfBirth":"1383/01/30","universityLocation":"UK","field":"ID","workplace":"Texas","specialties":["Senior Editor","General Manager"],"connectionId":["1"]}]
